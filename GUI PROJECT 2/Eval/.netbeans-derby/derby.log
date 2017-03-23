@@ -1,0 +1,27 @@
+Sun Nov 20 09:21:31 CST 2016 : Apache Derby Network Server - 10.11.1.2 - (1629631) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Sun Nov 20 09:21:31 CST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0158-8253-e7a5-00001f3232fd 
+on database directory C:\Users\mlgn8c\.netbeans-derby\TEAMS with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_101/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=C:\Program Files\Java\jdk1.8.0_101\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\mlgn8c\.netbeans-derby
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Nov 20 09:21:49 CST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance f55fc0a6-0158-8253-e7a5-00001f3232fd 
+on database directory C:\Users\mlgn8c\.netbeans-derby\PureEval with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_101/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=C:\Program Files\Java\jdk1.8.0_101\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\mlgn8c\.netbeans-derby
+Database Class Loader started - derby.database.classpath=''
